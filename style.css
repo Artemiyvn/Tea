@@ -1,0 +1,29 @@
+header{ 
+height: 400px;/**/
+background-color: rgb(255, 254, 254);
+color: rgb(255, 255, 255); /*цвет текста*/
+text-align: center;
+font-size: 45px;
+background-image: url(https://ahmadtea.ru/upload/resize_cache/iblock/bda/1200_440_240cd750bba9870f18aada2478b24840a/k1dtgsdj535wq03kc2c6i8xj29694whj.jpg);
+background-size:cover;
+font-family: "Segoe Print";
+text-shadow:  10px 10px 20px black;
+}
+main{
+    height: 2100px;/**/
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);/*цвет текста*/
+    text-align: left;
+    font-size: 37px;
+    font-family: "Segoe print";
+    text-shadow: 10px 10px 20px black;
+    
+}
+footer{
+    height: 200px;
+    background-color: rgb(252, 0, 0);
+    color: rgb(97, 0, 0);/*цвет текста*/
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+}
